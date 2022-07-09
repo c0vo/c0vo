@@ -4,9 +4,10 @@
 
 ### About Me : 
 
-- :computer: Currently studying infocomm security management! (Cybersecurity)
+- :computer: Currently studying Infocomm Security Management! (Cybersecurity)
 - :triangular_flag_on_post: I enjoy participating in Capture The Flag (CTF) Competitions.
-- going to school sucks fr
+- :clown_face: Trying to self-learn Rust and C#
+- :thumbsup: hoping to be a competent hackerman by the time I graduate
 
 
 ---
@@ -20,24 +21,4 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
-
-  
-
-  
-
-
-
-<!--
-**c0vo/c0vo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
