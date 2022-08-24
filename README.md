@@ -6,7 +6,7 @@
 
 - :computer: Currently studying Infocomm Security Management. 
 - :triangular_flag_on_post: I enjoy participating in Capture The Flag (CTF) Competitions.
-- :ok_hand: Trying to self-learn Rust as well as writing shellcode
+- :ok_hand: Trying to self-learn Rust as well as writing shellcode.
 - :thumbsup: Studying for the Certified Ethical Hacker (CEH) Certification :thumbsup:
 
 
