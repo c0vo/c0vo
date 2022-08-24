@@ -4,8 +4,8 @@
 
 ### About Me : 
 
-- :computer: Currently studying Infocomm Security Management (Cybersecurity)
-- :triangular_flag_on_post: I enjoy participating in Capture The Flag (CTF) Competitions.
+- :computer: Currently studying Infocomm Security Management. 
+- :triangular_flag_on_post: I enjoy participating in Capture The Flag (CTF) Competitions. I particularly enjoy solving cryptography questions.
 - :ok_hand: Trying to self-learn Rust, 
 - :thumbsup: Studying for the Certified Ethical Hacker (CEH) Certification :thumbsup:
 
