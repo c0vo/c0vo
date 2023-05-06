@@ -6,7 +6,7 @@
 
 - :computer: Currently studying Infocomm Security Management. 
 - :triangular_flag_on_post: I enjoy participating in Capture The Flag (CTF) Competitions.
-- :ok_hand: Trying to self-learn Rust.
+- :ok_hand: Trying out TryHackMe and HackTheBox, then OSCP!
 
 
 ---
