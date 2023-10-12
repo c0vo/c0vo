@@ -6,7 +6,7 @@
 
 - :computer: Currently studying Infocomm Security Management. 
 - :triangular_flag_on_post: I enjoy participating in Capture The Flag (CTF) Competitions.
-- :ok_hand: In the midst of studying for OSCP
+- :ok_hand: In the midst of studying for OSCP.
 
 ---
 
