@@ -4,7 +4,7 @@
 
 ### About Me : 
 
-- :computer: Currently studying Infocomm Security Management. 
+- :computer: Currently a full time Computer Science student with an interest in cybersecurity!
 - :triangular_flag_on_post: I enjoy participating in Capture The Flag (CTF) Competitions.
 
 ---
